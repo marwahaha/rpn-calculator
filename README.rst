@@ -1,6 +1,6 @@
 Unmaintained repository
 =======================
-This repository (*rpn-calculator*) is **intentionally** abandonned and left
+This repository (*rpn-calculator*) is **intentionally** abandoned and left
 unmaintained for good.  To address `Issue #1`_, I have rewritten the entire code
 base from scratch, added more features and functionalities, and uploaded the
 rewritten calculator as a new project in `a new repository`_ called
